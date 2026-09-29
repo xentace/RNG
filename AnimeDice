@@ -2,4 +2,4 @@ if game:GetService("RobloxReplicatedStorage"):WaitForChild("GetServerType"):Invo
     game:GetService("Players").LocalPlayer:Kick("VIP / Private Server detected.\nUsing this script in this server may result in a ban.\nPlease join a PUBLIC server.")
     return
 end
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/JHxp10gg7u/0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/zegKqFckft/0"))()
